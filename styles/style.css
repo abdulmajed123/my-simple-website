@@ -17,49 +17,10 @@
   text-align: justify;
 
 }
-
-.link{
-  background: #58B19F;
-  font-size: 30px;
-  padding: 10px;
-  text-decoration: none;
-  border: 3px solid #34ace0;
-  border-radius: 15px;
-}
-
-
-img{
-  width: 500px;
-  height: 300px;
-}
-h4{
-  font-size: 50px;
-  font-weight: 800;
-}
-
 .parent{
   background-color: #CAD3C8;
   width: 400px;
   margin: 10px auto;
   border: 3px solid red;
   border-radius: 10px;
-}
-
-p{
-  font-size: 24px;
-}
-
-.parent, h1{
-  color: red;
-  
-}
-
- button{
-  font-size: 20px;
-  padding: 10px;
-  background-color: #FD7272;
-  color: white;
-  border: 2px solid #3B3B98;
-  border-radius: 15px,;
- 
 }
